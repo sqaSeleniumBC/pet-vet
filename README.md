@@ -1,9 +1,10 @@
-# Basic Project
+# Pet Vet Application
 
- Basic Java Maven Project Structure
+ Application for a Pet Registration and Vet Processing System
 
- * QA
+ * Junit
  * Java
  * Maven
+ * Classes and Subclasses
 
  [Jean-francois Nepton](http://sqasolution.com)
