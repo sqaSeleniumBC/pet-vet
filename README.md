@@ -6,4 +6,5 @@
  * Java
  * Maven
  * Classes and Subclasses
- * [Jean-francois Nepton](http://sqasolution.com)
+ 
+[Jean-francois Nepton](http://sqasolution.com)
